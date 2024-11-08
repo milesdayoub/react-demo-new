@@ -18,7 +18,7 @@ Make sure you have the following installed:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/milesdayoub/react-demo-new
-   cd react-demo-web
+   cd react-demo-new
    ```
 
 2. **Install Dependencies**
